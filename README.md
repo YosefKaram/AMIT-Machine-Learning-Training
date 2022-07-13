@@ -1,1 +1,1 @@
-# AMIT-Training
+# AMIT-ML-Training
